@@ -38,3 +38,6 @@ Temporary Items
 
 # Dependency directories
 node_modules/
+
+# dist file is not required to be sent
+dist/
